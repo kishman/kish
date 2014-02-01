@@ -1,0 +1,4 @@
+kish
+====
+
+mining for coins
